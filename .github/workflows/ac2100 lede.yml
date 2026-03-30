@@ -1,5 +1,5 @@
 
-name: OpenWrt Builder
+name: OpenWrt Builder - LEDE
 
 on:
   repository_dispatch:
