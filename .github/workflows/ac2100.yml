@@ -1,5 +1,5 @@
 
-name: OpenWrt Builder
+name: OpenWrt AC2100
 
 on:
   repository_dispatch:
